@@ -2,6 +2,7 @@ An example Dockerfile for a Java webapp + a few dependencies:
 
 * Alpine
 * Node 14
+* Yarn 1.22.19
 
 Prerequisites
 -----
