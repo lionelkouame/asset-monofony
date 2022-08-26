@@ -1,3 +1,5 @@
+[![Docker Image CI](https://github.com/lionelkouame/asset-monofony/actions/workflows/docker-image.yml/badge.svg)](https://github.com/lionelkouame/asset-monofony/actions/workflows/docker-image.yml)
+
 An example Dockerfile for a Java webapp + a few dependencies:
 
 * Alpine
